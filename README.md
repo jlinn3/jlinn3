@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Howdy, I'm Joselinne, a Mathematics major with a Data Science concentration from Hollins University!
+
+🔭 I'm currently working on optimizing an RCAT algorithm from Immigration and Customs Enforcement. My focus on my thesis project is to incorporate alogorithmic fairness and tackle biases in current algorithm.
+
+🌱 Throughout my time at Hollins, I have studied Data Science with the hopes of finding ways to integrate ethics into data analysis. My internships have allowed me to both write modules explaining algorithmic fairness, handle data safely and promote clean data visualization through a well-crafted narrative. 
+
+📫 Feel free to reach me on LinkedIn!
 
 <!--
 **jlinn3/jlinn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
