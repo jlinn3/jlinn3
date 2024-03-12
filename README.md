@@ -2,7 +2,7 @@
 
 🔭 I'm currently working on optimizing an RCAT algorithm from Immigration and Customs Enforcement. My focus on my thesis project is to incorporate alogorithmic fairness and tackle biases in current algorithm.
 
-🌱 Throughout my time at Hollins, I have studied Data Science with the hopes of finding ways to integrate ethics into data analysis. My internships have allowed me to both write modules explaining algorithmic fairness, handle data safely and promote clean data visualization through a well-crafted narrative. 
+🌱 Throughout my time at Hollins, I have studied Data Science with the hopes of finding ways to integrate ethics into data analysis. I don't just have a degree in the data side of stuff, but also a degree in Behavioral and Social Sciences. My internships have allowed me to both write modules explaining algorithmic fairness, handle data safely and create clean data visualization through a well-crafted narrative.
 
 📫 Feel free to reach me on LinkedIn!
 
